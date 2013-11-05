@@ -1,0 +1,15 @@
+EAGLE Version 4.09r2 Copyright (c) 1988-2002 CadSoft
+
+Electrical Rule Check for C:/Program Files/EAGLE-4.09r2/projects/Minitel/minitel.sch at 02/09/2013 23:15:50 
+
+
+Pins/Pads with different connections:
+
+  Part     Gate     Pin        Net      Pad      Signal
+
+  VID      G$1      1          N$24     1       
+
+ERROR: Board and schematic are not consistent!
+
+    1 error
+    0 warnings
